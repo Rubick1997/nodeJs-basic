@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crypto.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.1.7",
+    "nodemon": "^2.0.15"
+  }
+}
